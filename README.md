@@ -1,6 +1,6 @@
 # bitcoin_price_predictor
 
-**Bitcoin price prediction model using BITMEX API**
+**Bitcoin price prediction model**
 
 This project is a Bitcoin price prediction model that employs a dual moving average crossover strategy to forecast Bitcoin price movements. The model leverages historical Bitcoin price data to generate buy and sell signals, providing a tool for traders and investors to potentially increase their returns by timing the market more effectively.
 
